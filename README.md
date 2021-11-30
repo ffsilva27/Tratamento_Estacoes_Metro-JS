@@ -8,5 +8,5 @@ O módulo 02 do curso tinha como objetivo o aprimoramento dos alunos quanto a l�
 
 Organizar as estações do metrô de São Paulo agrupando-as por linha, com base no retorno da API.
 
-![Formato de saida do dado esperado] (/main/Capturar.PNG)
+![Formato de saida do dado esperado](/Capturar.PNG)
 
